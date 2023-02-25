@@ -148,7 +148,7 @@ Six steps of data analysis:
 
 ### Microsoft Power BI
 
--[Microsoft Learn For Power BI](https://learn.microsoft.com/en-us/training/powerplatform/power-bi?WT.mc_id=powerbi_landingpage-docs-link)
+- [Microsoft Learn For Power BI](https://learn.microsoft.com/en-us/training/powerplatform/power-bi?WT.mc_id=powerbi_landingpage-docs-link)
 - [Microsoft Power BI Community](https://community.powerbi.com/)
 - [Power BI Beginner Tutorial](https://www.youtube.com/watch?v=fnA-_iDV_LY&list=PLoyECfvEFOjaOvLYf2_Oxy-cqE1DiJumR)
 - [Power BI Full Course - Learn Power BI in 4 Hours | Power BI Tutorial for Beginners | Edureka](https://www.youtube.com/watch?v=3u7MQz1EyPY&t=28s)
