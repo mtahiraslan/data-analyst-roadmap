@@ -272,7 +272,7 @@ Interview Preparation:
 
  ## Contact Me 
 
- [![Twitter Badge](https://img.shields.io/badge/mtahiraslan-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/aslanmtahir)
+ [![Twitter Badge](https://img.shields.io/badge/mtahiraslan-follow%20on%20twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/mhmthraslan)
 
  [![Linkedin Badge](https://img.shields.io/badge/mtahiraslan-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mtahiraslan)
 
