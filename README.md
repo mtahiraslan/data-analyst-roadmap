@@ -18,7 +18,7 @@ Six steps of data analysis:
 
 ## Roadmap
 
-![Uygulama Ekran Görüntüsü](https://learnsql.com/blog/roadmap-to-become-data-analyst/roadmap-to-become-data-analyst-2.png)
+![Uygulama Ekran Görüntüsü](https://raw.githubusercontent.com/mtahiraslan/data-analyst-roadmap/main/roadmap.png)
 
 ## 1. Statistics
 
@@ -68,9 +68,9 @@ Six steps of data analysis:
 
 "SQL is a programming language used by database management systems for storing, querying, organizing, and managing data. Knowing SQL is important for a data analyst because it is a tool used for querying, filtering, joining, and analyzing data. SQL is used by data analysts for managing and analyzing data, and it helps make analysis processes more efficient and effective."
 
-![Uygulama Ekran Görüntüsü_2](https://learnsql.com/blog/most-popular-databases-2023/most-popular-databases-2023-1.png)
+![Uygulama Ekran Görüntüsü_2](https://raw.githubusercontent.com/mtahiraslan/data-analyst-roadmap/main/most-popular-db.png)
 
-![Uygulama Ekran Görüntüsü_3](https://learnsql.com/blog/most-popular-databases-2023/most-popular-databases-2023-3.png)
+![Uygulama Ekran Görüntüsü_3](https://raw.githubusercontent.com/mtahiraslan/data-analyst-roadmap/main/most-popular-db2.png)
 
 ### Books 
 
