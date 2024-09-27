@@ -139,6 +139,7 @@ Six steps of data analysis:
 - [SQL Cheat Sheet for Newbies](https://www.sqlshack.com/sql-cheat-sheet-for-newbies/)
 - [SQL Commands Cheat Sheet by IntelliPaat](https://intellipaat.com/blog/tutorial/sql-tutorial/sql-commands-cheat-sheet/)
 - [SQL Cheat Sheet by Mosh Hamedani](https://programmingwithmosh.com/wp-content/uploads/2019/03/SQL-Cheat-Sheet.pdf)
+- [SQL Advanced Cheat Sheet](https://helpercodes.com/sql-query-cheatsheet-tutorial/)
 
 ## 4. BI (Business Intelligence) Tools - Power BI & Tableau
 
