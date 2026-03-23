@@ -259,6 +259,7 @@ Free resume template websites:
 - [Resume.io](https://resume.io/resume-templates) 
 - [Canva Resume](https://www.canva.com/resumes/templates/)
 - [Resume.com](https://www.resume.com/)
+- [Rejectless Resume](https://www.rejectless.app/jakes-resume-builder)
 
 Interview Preparation:
 - Once you have completed all the above steps, just start applying for related jobs. Giving interview is also a part of your learning.
